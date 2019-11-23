@@ -13,9 +13,13 @@ TUGAS PRAKTIKUM
 PENJELASAN PROGRAM
 
 1.Program meminta memasukan data terlebih dahulu.
+
 2.Masukan data seperti Nama,Nim,Nilai Tugas,Nilai UTS,Nilai UAS (Masukan semua nilai dengan angka).
+
 3.Lalu program meminta untuk menambah data atau tidak,(pilih "ya" untuk menambah data, pilih "tidak" untuk langsung menampilkan table data dan hasil nilai akhir.
+
 4.Hasil nilai akhir diambil dari : Nilai Tugas = 30%, Nilai UTS = 35%, Nilai UAS = 35%
+
 5.Program akan menampilkan semua data yang di input,bisa satu,dua atau lebih datanya.
 
 FLOWCHART
